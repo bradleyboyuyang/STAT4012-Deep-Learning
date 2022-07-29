@@ -1,0 +1,35 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Face Detection}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Haar Cascaded Classifier}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Multi-task Cascaded Convolutional Networks}{3}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Face Recognition}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Feature Extraction}{4}{subsubsection.1.2.1}%
+\contentsline {paragraph}{\numberline {1.2.1.1}Convolutional Neural Networks}{4}{paragraph.1.2.1.1}%
+\contentsline {paragraph}{\numberline {1.2.1.2}FaceNet}{4}{paragraph.1.2.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.2}Classifiers}{5}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {2}Materials and Methods}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Description}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Data Preprocessing}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Train-Test Split}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Image Processing}{6}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}One-Hot Encoding}{7}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Models Used}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Model Construction and Results}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Face Detection with MTCNN}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Feature Extraction and Classification}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Convolutional Neural Networks}{8}{subsubsection.3.2.1}%
+\contentsline {paragraph}{\numberline {3.2.1.1}Model 1}{8}{paragraph.3.2.1.1}%
+\contentsline {paragraph}{\numberline {3.2.1.2}Model 2}{11}{paragraph.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.2}Classical CNN Architectures}{13}{subsubsection.3.2.2}%
+\contentsline {paragraph}{\numberline {3.2.2.1}AlexNet Architecture}{13}{paragraph.3.2.2.1}%
+\contentsline {paragraph}{\numberline {3.2.2.2}VGG16 Architecture}{15}{paragraph.3.2.2.2}%
+\contentsline {paragraph}{\numberline {3.2.2.3}ResNet Architecture}{17}{paragraph.3.2.2.3}%
+\contentsline {paragraph}{\numberline {3.2.2.4}Inception Network Architecture}{18}{paragraph.3.2.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.3}FaceNet}{20}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Feature Extraction by FaceNet}{20}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Classification by SVM/MLP}{21}{paragraph.3.2.3.2}%
+\contentsline {section}{\numberline {4}Discussion}{22}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Performance Summary}{22}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Improvements and Applications}{22}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusion}{23}{section.5}%
