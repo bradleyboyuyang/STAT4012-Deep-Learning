@@ -13,6 +13,17 @@
 .*.lb
 *.tex
 
+data/
+data_exercise/
+mtcnn_facenet_tut.ipynb
+MLP_demo.ipynb
+CNN_demo.ipynb
+try.ipynb
+figures/
+img/
+
+*.npz
+
 ## Intermediate documents:
 *.dvi
 *.xdv
