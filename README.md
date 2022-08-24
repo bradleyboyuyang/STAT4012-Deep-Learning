@@ -16,43 +16,43 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 
 #### Haar-like Classifiers
 
-<img src="./figures/har2.png" width="750">
+<img src="./final_report/figures/har2.png" width="750">
 
 #### MTCNN Structure
 
-<img src="./figures/mtcnn1.png" width="750">
+<img src="./final_report/figures/mtcnn1.png" width="750">
 
 #### FaceNet Structure
 
-<img src="./figures/facenetX.png" width="750">
+<img src="./final_report/figures/facenetX.png" width="750">
 
 ### Results
 #### Train-test Proportions
 
-<img src="./figures/train_test.png" width="750">
+<img src="./final_report/figures/train_test.png" width="750">
 
 #### Samples of the Correctly Labeled Images
 
-<img src="./figures/correct.png" width="750">
+<img src="./final_report/figures/correct.png" width="750">
 
 #### Samples of the Incorrectly Labeled Images
 
-<img src="./figures/mislabeled.png" width="750">
+<img src="./final_report/figures/mislabeled.png" width="750">
 
 #### Accuracy/Loss of a Self-built CNN
 
-<img src="./figures/cnn2.png" width="750">
+<img src="./final_report/figures/cnn2.png" width="750">
 
 
 #### Accuracy of a Keras Built-in Model
 
-<img src="./figures/res1.jpg" width="750">
+<img src="./final_report/figures/res1.jpg" width="750">
 
 
 #### Loss of a Keras Built-in Model
 
-<img src="./figures/res2.jpg" width="750">
+<img src="./final_report/figures/res2.jpg" width="750">
 
 #### Confusion Matrix of FaceNet + SVM on Test Dataset
 
-<img src="./figures/svm_confusion_test.png" width="750">
+<img src="./final_report/figures/svm_confusion_test.png" width="750">
