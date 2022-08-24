@@ -31,10 +31,6 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 
 <img src="./final_report/figures/train_test.png" width="750">
 
-#### Samples of the Correctly Labeled Images
-
-<img src="./final_report/figures/correct.png" width="650">
-
 #### Samples of the Incorrectly Labeled Images
 
 <img src="./final_report/figures/mislabeled.png" width="650">
@@ -55,4 +51,4 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 
 #### Confusion Matrix of FaceNet + SVM on Test Dataset
 
-<img src="./final_report/figures/svm_confusion_test.png" width="700">
+<img src="./final_report/figures/svm_confusion_test.png" width="650">
