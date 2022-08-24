@@ -12,17 +12,21 @@
 *.cb2
 .*.lb
 *.tex
+*.npz
 
-data/
-data_exercise/
+data-2/
+data_exercise-2/
+
 mtcnn_facenet_tut.ipynb
+
 MLP_demo.ipynb
 CNN_demo.ipynb
+
 try.ipynb
 figures/
 img/
+LeNet.ipynb
 
-*.npz
 
 ## Intermediate documents:
 *.dvi
