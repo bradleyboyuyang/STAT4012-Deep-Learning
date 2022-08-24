@@ -14,18 +14,16 @@
 *.tex
 *.npz
 
-data-2/
-data_exercise-2/
+data/
+data_exercise/
 
-mtcnn_facenet_tut.ipynb
+mtcnn_facenet_tutorial.ipynb
 
-MLP_demo.ipynb
-CNN_demo.ipynb
+MLP-demo.ipynb
+CNN-demo.ipynb
 
-try.ipynb
-figures/
-img/
-LeNet.ipynb
+test.ipynb
+LeNet-tutorial.ipynb
 
 
 ## Intermediate documents:
