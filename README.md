@@ -16,7 +16,7 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 
 #### Haar-like Classifiers
 
-<img src="./final_report/figures/har2.png" width="750">
+<img src="./final_report/figures/har2.png" width="650">
 
 #### MTCNN Structure
 
@@ -33,11 +33,11 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 
 #### Samples of the Correctly Labeled Images
 
-<img src="./final_report/figures/correct.png" width="750">
+<img src="./final_report/figures/correct.png" width="650">
 
 #### Samples of the Incorrectly Labeled Images
 
-<img src="./final_report/figures/mislabeled.png" width="750">
+<img src="./final_report/figures/mislabeled.png" width="650">
 
 #### Accuracy/Loss of a Self-built CNN
 
@@ -55,4 +55,4 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 
 #### Confusion Matrix of FaceNet + SVM on Test Dataset
 
-<img src="./final_report/figures/svm_confusion_test.png" width="750">
+<img src="./final_report/figures/svm_confusion_test.png" width="700">
