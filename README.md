@@ -10,7 +10,7 @@ Faces will be explored using Haar-like Classifiers in OpenCV. Features will be e
 ### Scripts
 - `MTCNN.ipynb`: Using MTCNN to detect the location and information of the faces.
 - `CNN.ipynb`: Basic exploratory data analysis and self-built CNN models.
-- `EDA+FaceNet.ipynb`: Part of exploratory image visualization and SVM classification using FaceNet embeddings.
+- `EDA-FaceNet.ipynb`: Part of exploratory image visualization and SVM classification using FaceNet embeddings.
 - `keras_models.ipynb`: Face detection using well-known pre-trained image recognition models in Keras.
 - `FaceNet.ipynb`: FaceNet employment and performance measure.
 
