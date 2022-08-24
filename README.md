@@ -1,8 +1,8 @@
 ## Face Detection
-Realize the classic computer vision task: face detection and recognition using Bollywood celebrity faces.
+Face detection and recognition using Bollywood celebrity faces.
 
 ### Source Data
-We pick a part of (more than 1000 observations) the [Bollywood celebrity faces](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces)  from Kaggle for face recognition purposes. The raw data contains images of different sizes for 13 different Bollywood celebrities. 
+A part of (more than 1000 observations) the [Bollywood celebrity faces](https://www.kaggle.com/datasets/havingfun/100-bollywood-celebrity-faces) was picked from Kaggle for face recognition purposes. The raw data contains images of different sizes for 13 different Bollywood celebrities. 
 
 ### Models
 Faces will be explored using Haar-like Classifiers in OpenCV. Features will be extracted using MTCNN. Classification tasks are finished using self-built CNNs and pre-trained models in Keras such as AlexNet and ResNet. Eventually FaceNet will be used to obtain embeddings and celebrities are classified using a simple SVM or MLP. We use the renowned pre-trained FaceNet keras model (in h5 format) which is available online.
